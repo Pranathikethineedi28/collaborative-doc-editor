@@ -2,7 +2,7 @@
 
 A small full-stack document editor inspired by Google Docs. Users can create, rename, edit (rich text), import, share and reopen documents.
 
-- **Live app:** `<ADD YOUR DEPLOYED URL>`
+- **Live app:** `https://ajaia-docs-rust-six.vercel.app`
 - **Stack:** Next.js 15 (App Router) · React 19 · TipTap 3 (ProseMirror) · Postgres (Neon in production, embedded PGlite locally) · Vitest
 
 ## Demo accounts

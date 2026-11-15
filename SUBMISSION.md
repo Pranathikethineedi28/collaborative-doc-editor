@@ -1,7 +1,7 @@
 # Submission: Ajaia AI-Native Full Stack Developer Assignment
 
 **Candidate:** Pranathi Kethineedi
-**Live app:** `<ADD YOUR DEPLOYED URL>`
+**Live app:** `https://ajaia-docs-rust-six.vercel.app`
 **Walkthrough video:** see `VIDEO_URL.txt`
 
 ## Test accounts
