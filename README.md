@@ -1,4 +1,13 @@
 # Ajaia Docs: a lightweight collaborative document editor
+## Built with AI
+
+Built end-to-end in a ~4-hour timebox using Claude as an agentic coding assistant.
+AI drafted most of the code, tests and docs; I owned the scope, product decisions,
+review and verification.
+
+- **What AI got wrong and was fixed:** a stale-closure autosave bug, a TypeScript version incompatibility, a sticky-header layout bug found through screenshot review
+- **How it was verified:** 12 automated tests on real Postgres, API smoke tests, scripted browser runs, and manual testing of the live app as multiple users
+- **Full write-up:** [AI_WORKFLOW.md](AI_WORKFLOW.md)
 
 A small full-stack document editor inspired by Google Docs. Users can create, rename, edit (rich text), import, share and reopen documents.
 
