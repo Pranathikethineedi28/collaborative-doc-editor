@@ -1,7 +1,5 @@
 # AI workflow note
 
-> **Before submitting:** this note describes the AI-assisted build as it actually happened. Edit it in your own voice and add your own review steps. Reviewers will ask about it in the video.
-
 ## Tools used
 
 - **Claude (Anthropic), agentic coding mode:** scaffolding, first drafts of modules and docs, and running the test, build and browser-check loops.
